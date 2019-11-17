@@ -1,0 +1,42 @@
+[INFO  - 2019-11-16T09:37:14.467Z] GhostDriver - Main - running on port 56185
+[INFO  - 2019-11-16T09:37:14.901Z] Session [ac492010-0854-11ea-a1a8-53c56b5c65cc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-11-16T09:37:14.901Z] Session [ac492010-0854-11ea-a1a8-53c56b5c65cc] - page.customHeaders:  - {}
+[INFO  - 2019-11-16T09:37:14.901Z] Session [ac492010-0854-11ea-a1a8-53c56b5c65cc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-11-16T09:37:14.901Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ac492010-0854-11ea-a1a8-53c56b5c65cc
+[ERROR - 2019-11-16T09:38:00.984Z] Session [ac492010-0854-11ea-a1a8-53c56b5c65cc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'a[typeof Symbol==="function"?Symbol.iterator:"@@iterator"]()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-11-16T09:38:00.984Z] Session [ac492010-0854-11ea-a1a8-53c56b5c65cc] - page.onError - stack:
+  (anonymous function) (https://connect.facebook.net/en_US/fbevents.js:25)
+  x (https://connect.facebook.net/en_US/fbevents.js:23)
+  value (https://connect.facebook.net/en_US/fbevents.js:25)
+  U (https://connect.facebook.net/en_US/fbevents.js:25)
+  plugin (https://connect.facebook.net/en_US/fbevents.js:27)
+  value (https://connect.facebook.net/en_US/fbevents.js:25)
+  registerPlugin (https://connect.facebook.net/en_US/fbevents.js:25)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-11-16T09:38:01.024Z] Session [ac492010-0854-11ea-a1a8-53c56b5c65cc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'a[typeof Symbol==="function"?Symbol.iterator:"@@iterator"]()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-11-16T09:38:01.024Z] Session [ac492010-0854-11ea-a1a8-53c56b5c65cc] - page.onError - stack:
+  (anonymous function) (https://connect.facebook.net/en_US/fbevents.js:25)
+  x (https://connect.facebook.net/en_US/fbevents.js:23)
+  value (https://connect.facebook.net/en_US/fbevents.js:25)
+  U (https://connect.facebook.net/en_US/fbevents.js:25)
+  plugin (https://connect.facebook.net/en_US/fbevents.js:27)
+  value (https://connect.facebook.net/en_US/fbevents.js:25)
+  registerPlugin (https://connect.facebook.net/en_US/fbevents.js:25)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-11-16T09:38:24.844Z] Session [ac492010-0854-11ea-a1a8-53c56b5c65cc] - page.onError - msg: ReferenceError: Can't find variable: ev
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-11-16T09:38:24.845Z] Session [ac492010-0854-11ea-a1a8-53c56b5c65cc] - page.onError - stack:
+  global code (https://www.jscache.com/static/page_moniker/bing_attr_page-v261554124a.html#pixelType=PAGEVIEW&curLocId=10147730&geoId=480193&pixelList=facebook_vi_attraction_pixel,facebook_vi_attraction_dat_pixel,facebook_vi_attraction_log_attribution,criteo_attraction_pixel,google_pixel_attractions,google_display_pixel_attractions,bing_pixel_attractions_page,clicktripz_attr_aud_pixel,stm_new_sync_pixel&tadomain=tripadvisor.com.ph&reqUnique=9a1f0578199e95b612dfba5d09ad6edab418d0cf&userUnique=96b2228a843c7a4a9499c63c1522b92d106f359b&fbUserUnique=50942037c53cc96ce5b57cff6e9b4dcdd18589730e94b53c20af6d82b5a20c43&locale=en_PH&countryID=294245&ipCountryAbbrev=PH&seqId=4&sessionId=F64A61EE6966643AC1F2B474EF198490&currency=PHP&regionName=Amhara Region&cityName=Lalibela&stateOrCityName=Lalibela&countryName=Ethiopia&countryAbbrev=ET&destinationName=Church of St. George&locationType=Attraction&attraction1=31988P2&attraction2=127696P9&attraction3=176485P2&attractionActualProdCount=3&attractionProductCode=31988P2&stDest=Lalibela%2CEthiopia&geoName=Lalibela&geoParentId=2193232&geoParentName=Amhara Region&productIds=["480193enPH"]&productIdsShort=480193enPH&device=Desktop&fbDevice=1&device2=desktop&userGeo=298450&siteType=d&trueServlet=Attraction_Review&genTrueServlet=Attraction_Review&fbTrueServlet=AE&fbRetargetingType=2&servlet=Attraction_Review&geoFeedBucket=all&serverName=www.tripadvisor.com.ph&puid=Xc-DSwokHWcAAItnS-AAAABP&isMobileDevice=n&rtPath=www.tamgrt.com/RT&random=714113828&dmpAudienceIds=15188,16062,16635,15316,15299,15372,15442,15297&taSplit=2&mcid=0&fbChannel=7&isOrganic=true&criteoDedup=0&tasource=OTH&geo=480193&isClickoutYN=no&isLoggedIn=N&securelyLoggedIn=N&stuid=NY1QkB0y0N6jW8BMdUO9LbOMjGSszPtAdeDqgR2f7LvuuWhPI5quuVVqScM4G04b&countryAlpha2=PH&criteoPartnerId=20911&criteoAttractionPartnerId=30207&criteoHotelAcct=%5Ban%3Dweb-hotels-tripadvisor.com%26cn%3Dph%26ln%3Den%2Can%3Dweb-hotels-0-tripadvisor.com%26cn%3Dph%26ln%3Den%2Can%3Dweb-hotels-1-tripadvisor.com%26cn%3Dph%26ln%3Den%2Can%3Dweb-hotels-2-tripadvisor.com%26cn%3Dph%26ln%3Den%5D&flight_originid=&flight_destid=&flight_startdate=2019-11-30&flight_enddate=2019-12-07&dynx_itemid=null_null_20191130_20191207&flight_num_tix=1&numSeniors=0&attractionShoppingCartTotalPriceUSD=0.00&isAttractionListingPages=true&facebookuvm_v2UlbScore=0.7319606368473026&facebookuvm_v2UlbBucket=35&fbUlbMultiplier=0.34373190770560247&facebookUlbScore=1.5645300829881001&facebookUlbBucket=100&googleExperimentSegment=test&googleUlbScore=0.40172163400000005&googleUlbBucket=2&googleuvm_v2UlbBucket=4&googleuvm_v2UlbScore=0.731960638&UVMBESTSCORE=0.27&UVMSCOPE=UVM_V2&UVMSAVEABLE=0&googleuvm_v2.1UlbBucket=3&googleuvm_v2.1UlbScore=0.26935679041960003&googleuvm_v2.1UlbBucketParamName=uvm_display_desktop_bucket&googleuvm_complexUlbBucket=3&googleuvm_complexUlbScore=0.35256606340408325&criteoUlbScore=0.26935679041960003&criteoUlbBucket=3&criteoUlbScoreCurrent=0.26935679041960003&criteoUlbBucketCurrent=3&DBISCORE=0.03168509820374406&DBIFLAG=true&btb_score=0.000&btb_bucket=L&mofSlice=81&mofLastUpdated=20191116&smarterTravelPixelID=gqLWKHSnTxes4YmmtgWkqA&smarterTravelPixelDomain=p.smartertravel.com&isSTConversion=false&googleCRMId=4010f2309166d5b693981e2ebf5cd97fbece63a5&rexSplit=t&NanigansTestSegment=0&sitePerfTestCode=0&is_default_dates=No&pixelName=bing_pixel_attractions_page:47)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-11-16T09:39:37.963Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1573897177960
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-11-16T09:42:15.040Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
