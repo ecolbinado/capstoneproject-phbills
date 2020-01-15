@@ -12,4 +12,4 @@ This project is in its early days, but you are welcome to check it out, leave fe
 * This would not be possible without the initial works by https://github.com/pcalderon0711/philippine-bills
 * The brilliant mind of Kayecee Palisoc.
 * Insight and patience of Cedric Conol and Joao Valenciano, our TAs.
-* Engagement and motivation by Eskwelabs Fellows Cohort 3
+* Engagement and motivation from Eskwelabs Fellows Cohort 3
