@@ -10,6 +10,6 @@ This project is in its early days, but you are welcome to check it out, leave fe
 
 ## Acknowledgements
 * This would not be possible without the initial works by https://github.com/pcalderon0711/philippine-bills
-* The brilliant mind of Kayecee Palisoc.
+* The brilliant mind of my partner, Kayecee Palisoc.
 * Insight and patience of Cedric Conol and Joao Valenciano, our TAs.
 * Engagement and motivation from Eskwelabs Fellows Cohort 3
